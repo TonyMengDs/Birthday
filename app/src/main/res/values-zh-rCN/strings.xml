@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的应用</string>
+    <string name="hello">你好西财</string>
+    <string name="switch1">开关1</string>
+    <string name="birthday">生日快乐 ！ ！ ！</string>
+</resources>
